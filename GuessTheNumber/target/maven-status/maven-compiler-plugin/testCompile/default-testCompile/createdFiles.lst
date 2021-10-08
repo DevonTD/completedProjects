@@ -1,0 +1,3 @@
+com\sg\guessthenumberrest\service\GuessTheNumberServiceLayerTest.class
+com\sg\guessthenumberrest\dao\GameDaoDBTest.class
+com\sg\guessthenumberrest\dao\RoundDaoDBTest.class
